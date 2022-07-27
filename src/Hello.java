@@ -1,6 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        //oiuytrr
+        //added new java class Hello added a comment into main
     }
 
 
